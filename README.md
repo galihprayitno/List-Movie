@@ -11,5 +11,5 @@ Merupakan Web Pencarian Daftar Film dengan menggunakan React JS dan API dari web
 1. Buka folder List-Movie di CMD
 2. Masukkan Perintah ```npm-start```di CMD
 
-#CONTOH PENGGUNAAN PROGRAM
+# CONTOH PENGGUNAAN PROGRAM
 Masukkan kata kunci dipencarian FILM dan akan menampilkan berbagai film
