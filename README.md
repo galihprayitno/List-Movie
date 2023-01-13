@@ -1,13 +1,13 @@
 # TENTANG PROJECT
 Merupakan Web Pencarian Daftar Film dengan menggunakan React JS dan API dari website The Movie DB *www.themoviedb.org*
 
-#GETTING STARTED
-###Prasyarat
+# GETTING STARTED
+### Prasyarat
 * nodeJS 18.12.1
 * axios 1.1.3
 * reactJS 18.2.0
 
-###Cara Install
+### Cara Install
 1. Buka folder List-Movie di CMD
 2. Masukkan Perintah ```npm-start```di CMD
 
