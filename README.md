@@ -3,9 +3,13 @@ Merupakan Web Pencarian Daftar Film dengan menggunakan React JS dan API dari web
 
 #GETTING STARTED
 ###Prasyarat
-Node JS : v18.12.1
+* nodeJS 18.12.1
+* axios 1.1.3
+* reactJS 18.2.0
+
 ###Cara Install
 1. Buka folder List-Movie di CMD
-2. Jalankan Perintah ```npm-start```
+2. Masukkan Perintah ```npm-start```di CMD
 
-#CONTOH PENGGUNAAN
+#CONTOH PENGGUNAAN PROGRAM
+Masukkan kata kunci dipencarian FILM dan akan menampilkan berbagai film
